@@ -1,5 +1,7 @@
 # C- : Minimal, Extensible Scripting Language Inspired by C and HolyC
 
+Version - 0.0.1
+
 C- is a minimal, extensible scripting language inspired by the syntax and philosophy of C and HolyC. Designed for learning, rapid prototyping, and language tooling, C- aims to provide a simple, approachable, and modifiable language core suitable for education, systems experimentation, and personal projects.  
 **This project is closed source. All rights reserved.**
 
