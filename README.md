@@ -1,8 +1,8 @@
-# C- : Minimal, Extensible Scripting Language Inspired by C and HolyC
+# C* : Minimal, Extensible Scripting Language Inspired by C and HolyC
 
 Version - 0.0.1
 
-C- is a minimal, extensible scripting language inspired by the syntax and philosophy of C and HolyC. Designed for learning, rapid prototyping, and language tooling, C- aims to provide a simple, approachable, and modifiable language core suitable for education, systems experimentation, and personal projects.  
+C* is a minimal, extensible scripting language inspired by the syntax and philosophy of C and HolyC. Designed for learning, rapid prototyping, and language tooling, C* aims to provide a simple, approachable, and modifiable language core suitable for education, systems experimentation, and personal projects.  
 **This project is closed source. All rights reserved.**
 
 ---
@@ -26,14 +26,14 @@ C- is a minimal, extensible scripting language inspired by the syntax and philos
 
 ## Overview
 
-C- is a lightweight scripting language reminiscent of classic C, but with a focus on minimalism, readability, and ease of extension. Inspired by [HolyC](https://en.wikipedia.org/wiki/HolyC), it is implemented in a single file and designed to be both a playground for language designers and a practical tool for scripting and automation.
+C* is a lightweight scripting language reminiscent of classic C, but with a focus on minimalism, readability, and ease of extension. Inspired by [HolyC](https://en.wikipedia.org/wiki/HolyC), it is implemented in a single file and designed to be both a playground for language designers and a practical tool for scripting and automation.
 
 - Minimal syntax: Easy to learn for beginners, comfortable for C veterans.
 - Designed with extensibility in mind: Intended as a foundation for adding new features, experimenting with language design, or building larger tools.
 - Educational: Great for compiler and interpreter enthusiasts, or as a teaching aid.
 
 > **Note:**  
-> C- is currently a closed-source project. If you are interested in licensing, partnerships, or collaboration, please see [Contact](#contact).
+> C* is currently a closed-source project. If you are interested in licensing, partnerships, or collaboration, please see [Contact](#contact).
 
 ---
 
@@ -55,7 +55,7 @@ C- is a lightweight scripting language reminiscent of classic C, but with a focu
 
 ## Philosophy
 
-C- is created with the following principles:
+C* is created with the following principles:
 
 - **Minimalism:** Provide only essential language constructs; no bloat.
 - **Transparency:** Keep code and language features easy to understand.
@@ -113,13 +113,13 @@ int add(int x, int y) {
 ## Usage
 
 > **Note:**  
-> As C- is a closed source project, binaries or source code are not publicly available. If you are interested in accessing the language for evaluation, licensing, or educational use, please contact the author.
+> As C* is a closed source project, binaries or source code are not publicly available. If you are interested in accessing the language for evaluation, licensing, or educational use, please contact the author.
 
 ### Planned Usage (subject to licensing):
 
 - Download or clone the repository (with permission).
 - Compile or run the provided interpreter.
-- Write your C- scripts and execute them.
+- Write your C* scripts and execute them.
 
 ---
 
@@ -206,13 +206,13 @@ For licensing, collaboration, or partnership inquiries:
 
 ## FAQ
 
-**Q: Is C- open source?**  
-A: No. C- is a closed source project. Usage, copying, or modification is prohibited without explicit permission.
+**Q: Is C* open source?**  
+A: No. C* is a closed source project. Usage, copying, or modification is prohibited without explicit permission.
 
-**Q: Can I use C- in my own project or for educational purposes?**  
+**Q: Can I use C* in my own project or for educational purposes?**  
 A: Please contact the author to discuss licensing or special use.
 
-**Q: Will C- ever be open-sourced?**  
+**Q: Will C* ever be open-sourced?**  
 A: There are currently no plans, but future licensing options may be considered.
 
 **Q: Is there documentation or a language reference?**  
